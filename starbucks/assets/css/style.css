@@ -17,6 +17,10 @@
     --main-color: #008148;
     --second-color: #1e3932;
 }
+*::selection {
+    color: #fff;
+    background: var(--main-color);
+}
 section{
     padding: 50px 10%;
 }
@@ -71,5 +75,5 @@ header {
     cursor: pointer;
     z-index: 1001;
     display: none;
-    
+
 }
