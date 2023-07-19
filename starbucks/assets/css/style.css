@@ -134,7 +134,7 @@ header {
     font-weight: 500;
 }
    
-btn.hover {
+.btn:hover {
     color: #fff;
     background: var(--second-color);
 }
