@@ -126,4 +126,15 @@ header {
     text-transform: capitalize;
     margin: 0.5rem 0 1.4rem;
 }
+.btn {
+    padding: 7px 16px;
+    border: 2px solid var(--second-color);
+    border-radius: 40px;
+    color: var(--second-color);
+    font-weight: 500;
+}
    
+btn.hover {
+    color: #fff;
+    background: var(--second-color);
+}
