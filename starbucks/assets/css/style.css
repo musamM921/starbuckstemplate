@@ -114,5 +114,9 @@ header {
     font-weight: 600;
     color: var(--second-color);
 }
-
+.home-text h1{
+    font-size: 3.2rem;
+    color: var(--main-color);
+    font-weight: bolder;
+}
    
