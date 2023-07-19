@@ -108,5 +108,11 @@ header {
     transform: translate(-11px, 0);
    } 
 } 
+.home-text span{
+    font-size: 1rem;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: var(--second-color);
+}
 
    
