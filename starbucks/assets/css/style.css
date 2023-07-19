@@ -214,6 +214,13 @@ header {
    background: #ebdbc8; 
    color: var(--second-color);
 }
+.container{
+    display: flex;
+    flex-wrap: warp;
+    gap: 1.5;
+    margin-top: 2rem;
+}
+
 
 
 
